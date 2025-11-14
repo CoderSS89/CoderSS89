@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Suthar</h1>
+<h1 align="center">Hi 👋, I'm Soham</h1>
 <h3 align="center">Full Stack Developer | Backend Specialist | 10+ Years of Experience</h3>
 
 ---
