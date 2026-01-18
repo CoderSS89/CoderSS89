@@ -1,65 +1,105 @@
-<h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">Full Stack Developer | Backend Specialist | 10+ Years of Experience</h3>
+👋 Hi, I’m Soham Suthar
+💼 Senior Backend / Full Stack Developer | PHP • CodeIgniter • REST APIs • Payments
 
----
+📍 Gandhinagar, India | 🌍 Open to Remote Opportunities
 
-<p align="center">
-  <a href="https://github.com/CoderSS89"><img src="https://img.shields.io/github/followers/CoderSS89?label=Followers&style=social" alt="GitHub Followers" /></a>
-  <a href="mailto:sohamsuthar@gmail.com"><img src="https://img.shields.io/badge/email-sohamsuthar@gmail.com-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/soham-suthar-14910491"><img src="https://img.shields.io/badge/LinkedIn-Soham%20Suthar-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/soham89s"><img src="https://img.shields.io/badge/Twitter-@soham89s-1DA1F2?style=flat-square&logo=twitter" /></a>
-</p>
+🔍 Professional Summary (Recruiter-Optimized)
 
----
+Senior Full Stack Developer with 10+ years of hands-on experience designing, developing, and maintaining scalable backend systems, secure REST APIs, and production-grade web applications.
 
-### 🧰 Tech Stack
+Strong expertise in PHP, CodeIgniter, MySQL, and API-driven architectures, with proven experience in payment gateways, healthcare systems, role-based access, and high-performance databases.
+Comfortable owning end-to-end backend workflows from schema design to deployment.
 
-#### 🖥️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue)
+🧠 Core Skills (ATS Keywords)
 
-#### 🧑‍💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+Backend & APIs
 
-#### 📱 Mobile & Tools
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+PHP (10+ years), CodeIgniter
 
----
+RESTful API design & integration
 
-### 📊 GitHub Stats
+Authentication & Authorization (JWT, RBAC)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderSS89&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSS89&theme=github-dark-blue" width="45%" />
-</p>
+API security & validation
 
----
+Databases
 
-### 🔝 Top Languages
+MySQL schema design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSS89&layout=compact&theme=github_dark" width="50%" />
-</p>
+Query optimization & indexing
 
----
+Transactions & data integrity
 
-### 📬 Let's Connect
+Payments & Integrations
 
-- 💼 [LinkedIn](https://linkedin.com/in/soham-suthar-14910491)
-- 🧑‍💻 [GitHub](https://github.com/CoderSS89)
-- 🐦 [Twitter](https://twitter.com/soham89s)
-- ✉️ [Email](mailto:sohamsuthar@gmail.com)
+Stripe (subscriptions, commissions, settlements)
 
----
+Twilio (SMS, Voice, Video)
 
-_💡 Fun Fact: I enjoy turning real-world problems into elegant, scalable digital solutions._
+Firebase services
 
+Frontend
+
+React, Next.js
+
+Tailwind CSS, Bootstrap
+
+Engineering Practices
+
+MVC & service-based architecture
+
+Background jobs & cron automation
+
+Debugging, performance tuning
+
+Legacy code refactoring
+
+🏗️ Key Systems Built (Impact-Focused)
+
+Healthcare & Clinic Management Platforms
+Appointment booking, queue management, prescriptions, audit logs, and compliance-driven workflows.
+
+Secure Prescription & Medical APIs
+Handling consent, repeat prescriptions, access control, and traceability.
+
+Payment & Settlement Systems
+Stripe-powered split payments, platform commissions, provider payouts, and reconciliation logic.
+
+Admin Panels & Dashboards
+Multi-role access systems with reports, logs, and monitoring.
+
+📈 Career Highlights
+
+Designed and maintained high-traffic backend systems used in live production.
+
+Led backend architecture for multi-role platforms (patients, providers, admins).
+
+Built secure, compliant APIs for healthcare and financial workflows.
+
+Improved application performance through query optimization and refactoring.
+
+Successfully integrated multiple third-party services into core systems.
+
+🛠️ Tech Stack Snapshot
+
+Languages: PHP, JavaScript
+Frameworks: CodeIgniter, React, Next.js
+Databases: MySQL
+Tools: Git, Stripe, Twilio, Firebase
+Architecture: REST APIs, MVC, Service Layer
+
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CoderSS89&show_icons=true&theme=github_dark" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSS89&theme=github-dark-blue" width="45%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSS89&layout=compact&theme=github_dark" width="50%" /> </p>
+🤝 Availability
+
+✔ Remote Backend / Full Stack Roles
+✔ Contract & Freelance Work
+✔ Backend Consulting & Architecture Reviews
+
+📬 Contact
+
+LinkedIn: https://linkedin.com/in/soham-suthar-14910491
+
+GitHub: https://github.com/CoderSS89
+
+Email: sohamsuthar@gmail.com
