@@ -228,7 +228,6 @@ I enjoy understanding the business problem behind a requirement, designing the r
 
 - 💼 LinkedIn: [linkedin.com/in/soham-suthar-14910491](https://linkedin.com/in/soham-suthar-14910491)
 - 🐙 GitHub: [github.com/CoderSS89](https://github.com/CoderSS89)
-- 🌐 Portfolio: [sohamsuthar.vercel.app](https://sohamsuthar.vercel.app)
 - 📧 Email: sohamsuthar@gmail.com
 
 ---
