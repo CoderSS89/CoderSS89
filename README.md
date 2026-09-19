@@ -1,131 +1,236 @@
-<h1 align="center">Hi 👋, I'm Soham Suthar</h1>
-<h3 align="center">
-  Senior Backend / Full Stack Developer • PHP • CodeIgniter • REST APIs • Payments
-</h3>
+# Hi 👋, I'm Soham Suthar
+
+### Technical Lead | Senior Full-Stack Engineer | Backend Architecture | R&D | Team Leadership
+
+📍 Gandhinagar, India • 🌎 Open to Remote Opportunities
+
+---
+
+## 👨‍💻 About Me
+
+Senior Full-Stack Engineer and Technical Lead with **10+ years of hands-on experience** building scalable, secure, and production-grade software systems.
+
+I work across **software architecture, backend engineering, full-stack development, R&D, project ownership, technical leadership, and team mentoring**.
+
+My core strength is turning complex business requirements into **clean, scalable, secure, maintainable, and production-ready systems**.
+
+I specialize in backend-heavy applications, REST APIs, healthcare platforms, payment systems, database architecture, third-party integrations, and high-performance business workflows.
+
+---
+
+## 🚀 What I Do
+
+- 🏗️ Backend & System Architecture
+- 👨‍💻 Full-Stack Development
+- 🔬 R&D & Technical POC Development
+- 👥 Technical Leadership & Team Mentoring
+- 📋 Project Ownership & Technical Planning
+- 🔌 REST API & Third-Party Integrations
+- 🗄️ Database Architecture & Performance Optimization
+- 🔐 Security, Authentication & Role-Based Access
+- 💳 Payment & Financial Systems
+- 🏥 Healthcare & Clinical Management Systems
+- 🚀 Production Support & Performance Engineering
+
+---
+
+## 🧠 Core Skills
+
+### Backend
+
+- PHP
+- CodeIgniter 3 / 4
+- Laravel
+- REST APIs
+- MVC
+- Service-Oriented Architecture
+- Authentication & Authorization
+- RBAC
+
+### Frontend
+
+- React
+- Next.js
+- JavaScript
+- Tailwind CSS
+- Bootstrap
+
+### Database
+
+- MySQL
+- Database Design
+- Schema Architecture
+- Query Optimization
+- Indexing
+- Performance Tuning
+- Data Integrity
+
+### Integrations & Services
+
+- Stripe
+- Twilio
+- Firebase
+- Xero
+- Healthcare APIs
+- Payment APIs
+- SMS / Voice / Video Services
+- Third-Party API Integrations
+
+### Engineering & Infrastructure
+
+- Git
+- Linux / Windows Server
+- Cron Jobs
+- Background Workers
+- API Security
+- SSL / TLS
+- Logging & Monitoring
+- Production Debugging
+- Performance Optimization
+
+---
+
+## 🏗️ Systems I Build
+
+- 🏥 Healthcare & Clinic Management Platforms
+- 👨‍⚕️ Doctor / Patient Consultation Systems
+- 💊 Prescription & Medication Platforms
+- 💳 Payment & Settlement Systems
+- 🔌 Secure API & Integration Platforms
+- 👥 Multi-Role Admin Panels
+- 📊 Business Management Dashboards
+- ⚡ High-Performance Backend Systems
+- 🔐 Secure Authentication & Access-Control Systems
+
+---
+
+## 🚀 Selected Work
+
+### 🏥 Healthcare & Clinical Platform
+
+End-to-end healthcare platform supporting:
+
+**Patient → Clinic → Provider → Pharmacy → Admin**
+
+Responsibilities include:
+
+- System architecture
+- Backend/API development
+- Appointment & consultation workflows
+- Prescription & medication workflows
+- Healthcare integrations
+- Authentication & access control
+- Payment & invoicing
+- Notifications
+- Production support and optimization
+
+---
+
+### 💳 Payment & Settlement Systems
+
+Designed and developed payment workflows involving:
+
+- Stripe Payment Processing
+- Payment Intents
+- Webhooks
+- Transaction handling
+- Platform commissions
+- Provider payouts
+- Clinic settlements
+- Reconciliation
+- Idempotent payment processing
+
+---
+
+### 🔌 API & Integration Architecture
+
+Experience designing and implementing integrations with:
+
+- Payment gateways
+- Healthcare APIs
+- ePrescribing systems
+- SMS / Voice / Video services
+- Firebase
+- Accounting platforms
+- Government / healthcare services
+- External REST APIs
+
+---
+
+## 👥 Technical Leadership
+
+Beyond writing code, I contribute to:
+
+- Technical architecture and design decisions
+- Breaking complex requirements into technical solutions
+- Code reviews and engineering standards
+- Mentoring and supporting developers
+- R&D and technology evaluation
+- Debugging complex production issues
+- Database and API design
+- Project planning and technical estimation
+- Technical implementation strategy
+- System reliability and performance improvements
+
+---
+
+## 🔬 R&D & Continuous Learning
+
+I continuously explore technologies and engineering practices that can improve system scalability, maintainability, performance, and developer productivity.
+
+Currently expanding my expertise across:
+
+- Next.js
+- React
+- Modern Backend Architecture
+- System Design
+- Docker
+- Redis
+- Cloud & Infrastructure
+- DevOps Practices
+- Scalable API Architecture
+- Performance Engineering
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Build simple solutions for complex problems.**
+
+I enjoy understanding the business problem behind a requirement, designing the right architecture, and building systems that are reliable, maintainable, secure, and scalable.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  📍 Gandhinagar, India • 🌍 Open to Remote Opportunities
-</p>
-
-<hr/>
-
-<p>
-  Senior Full Stack Developer with <strong>10+ years of hands-on experience</strong> building
-  <strong>scalable backend systems</strong>, <strong>secure REST APIs</strong>, and
-  <strong>production-grade web applications</strong>.
-</p>
-
-<p>
-  Strong expertise in <strong>PHP</strong>, <strong>CodeIgniter</strong>, <strong>MySQL</strong>,
-  and <strong>API-driven architectures</strong>, with real-world experience in
-  <strong>payment gateways</strong>, <strong>healthcare systems</strong>,
-  <strong>role-based access</strong>, and <strong>high-performance databases</strong>.
-</p>
-
-<hr/>
-
-<h2>🧠 Core Skills</h2>
-
-<ul>
-  <li><strong>Backend:</strong> PHP, CodeIgniter, REST APIs, MVC, Service Architecture</li>
-  <li><strong>Security:</strong> JWT Authentication, Role-Based Access Control (RBAC)</li>
-  <li><strong>Database:</strong> MySQL, Schema Design, Query Optimization, Indexing</li>
-  <li><strong>Payments:</strong> Stripe (Subscriptions, Commissions, Settlements)</li>
-  <li><strong>Integrations:</strong> Twilio (SMS, Voice, Video), Firebase</li>
-  <li><strong>Frontend:</strong> React, Next.js, Tailwind CSS, Bootstrap</li>
-  <li><strong>Engineering:</strong> Cron Jobs, Background Workers, Performance Tuning</li>
-</ul>
-
-<hr/>
-
-<h2>🏗️ Systems I Build</h2>
-
-<ul>
-  <li><strong>Healthcare & Clinic Management Platforms</strong></li>
-  <li><strong>Secure Prescription & Medical APIs</strong></li>
-  <li><strong>Payment & Settlement Systems</strong></li>
-  <li><strong>Multi-Role Admin Panels & Dashboards</strong></li>
-  <li><strong>High-Performance Backend Systems</strong></li>
-</ul>
-
-<hr/>
-
-<h2>🚀 Selected Work</h2>
-
-<ul>
-  <li>
-    <strong>Clinic Appointment & Consultation System</strong><br/>
-    Booking → Queue → Consultation → Payment → Notifications
-  </li>
-  <li>
-    <strong>Prescription & Healthcare APIs</strong><br/>
-    Consent handling, repeat prescriptions, audit trails
-  </li>
-  <li>
-    <strong>Stripe Settlement Engine</strong><br/>
-    Platform commissions, provider payouts, reconciliation
-  </li>
-</ul>
-
-<hr/>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CoderSS89&show_icons=true&theme=github_dark"
-    width="45%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSS89&theme=github-dark-blue"
-    width="45%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderSS89&show_icons=true&hide_border=true&count_private=true" alt="Soham's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSS89&layout=compact&theme=github_dark"
-    width="50%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSS89&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<hr/>
+---
 
-<h2>🤝 Availability</h2>
+## 🤝 Availability
 
-<ul>
-  <li>Remote Backend / Full Stack Roles</li>
-  <li>Contract & Freelance Work</li>
-  <li>Backend Consulting & Architecture Reviews</li>
-</ul>
+- 💼 Technical Lead / Senior Full-Stack Roles
+- 🏗️ Backend Architecture & Consulting
+- 🔬 R&D / Technical POC Work
+- 🌎 Remote Opportunities
+- 🤝 Freelance / Contract Projects
+- 🧠 Architecture & Code Reviews
 
-<hr/>
+---
 
-<h2>📬 Contact</h2>
+## 📫 Connect With Me
 
-<ul>
-  <li>
-    LinkedIn:
-    <a href="https://linkedin.com/in/soham-suthar-14910491" target="_blank">
-      linkedin.com/in/soham-suthar-14910491
-    </a>
-  </li>
-  <li>
-    GitHub:
-    <a href="https://github.com/CoderSS89" target="_blank">
-      github.com/CoderSS89
-    </a>
-  </li>
-  <li>
-    Email:
-    <a href="mailto:sohamsuthar@gmail.com">
-      sohamsuthar@gmail.com
-    </a>
-  </li>
-</ul>
+- 💼 LinkedIn: [linkedin.com/in/soham-suthar-14910491](https://linkedin.com/in/soham-suthar-14910491)
+- 🐙 GitHub: [github.com/CoderSS89](https://github.com/CoderSS89)
+- 🌐 Portfolio: [sohamsuthar.vercel.app](https://sohamsuthar.vercel.app)
+- 📧 Email: sohamsuthar@gmail.com
 
-<hr/>
+---
 
-<p>
-  💡 <em>Fun Fact:</em> I enjoy simplifying complex business workflows into clean,
-  scalable backend systems that just work.
-</p>
+💡 **Fun Fact:** I enjoy simplifying complex business workflows into clean, scalable backend systems that just work.
